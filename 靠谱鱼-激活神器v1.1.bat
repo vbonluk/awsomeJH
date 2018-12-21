@@ -516,4 +516,4 @@ cd /d "%~dp0"
 goto :EOF
 
 
-:: 转载请注明： http://kms.kaopuyu.com
+:: 转载请注明： http://kms.kaopuyu.com，源码参考自v0v.bd，感谢v0v.bd
